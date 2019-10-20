@@ -1,0 +1,33 @@
+{
+  "name": "@wzlin/bcrypt-cli",
+  "version": "0.0.1",
+  "description": "Generate bcrypt hashes",
+  "bin": "cli.js",
+  "files": [
+    "dist/**"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilsonzlin/bcrypt-cli.git"
+  },
+  "keywords": [
+    "bcrypt",
+    "hash",
+    "cli"
+  ],
+  "author": {
+    "email": "npm@wilsonl.in",
+    "name": "Wilson Lin",
+    "url": "https://wilsonl.in/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilsonzlin/bcrypt-cli/issues"
+  },
+  "homepage": "https://github.com/wilsonzlin/bcrypt-cli#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "read": "^1.0.7"
+  }
+}
+
