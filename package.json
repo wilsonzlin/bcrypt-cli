@@ -26,7 +26,8 @@
   },
   "homepage": "https://github.com/wilsonzlin/bcrypt-cli#readme",
   "dependencies": {
-    "bcrypt": "^3.0.6",
-    "read": "^1.0.7"
+    "bcrypt": "^5.0.1",
+    "read": "^1.0.7",
+    "sacli": "^3.0.0"
   }
 }

@@ -5,13 +5,13 @@ CLI to generate the bcrypt hash of a plaintext password.
 ## Usage
 
 ```bash
-npx bcrypt-cli -p PLAINTEXT_PASSWORD
+npx @wzlin/bcrypt-cli -p PLAINTEXT_PASSWORD
 ```
 
 To enter the password in a prompt instead of passing it as part of the command:
 
 ```bash
-npx bcrypt-cli
+npx @wzlin/bcrypt-cli
 ```
 
 ## Options
